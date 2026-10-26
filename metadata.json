@@ -1,0 +1,6 @@
+{
+  "name": "BEPT Master - Simulasi Brawijaya English Proficiency Test",
+  "description": "Platform simulasi resmi dan latihan intensif Brawijaya English Proficiency Test (BEPT) Universitas Brawijaya dengan 140 soal (Listening, Structure, Reading), timer 120 menit, tampilan E-CBT UB asli, kunci jawaban & pembahasan lengkap, strategi tes, dan resume materi kunci.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
